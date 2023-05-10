@@ -1,6 +1,13 @@
-Le fichier étant trop volumineux, même si les images sont retiré de l'application, il n'y a que les classes java ( application the pantheon )
-et les fichiers xml ( layout ) qui ont été mis sur le github.
+Le fichier étant trop volumineux, je n'ai pu mettre que le fichier contenant tout ce qui est nécessaire.
 
 Vous pouvez accéder au fichier complet sur le drive en allant sur ce lien : 
 
 https://drive.google.com/drive/folders/1B7IrE5lwhC-jF4bgTnpoN5S0nZkmlFZq?hl=fr
+
+Pour utiliser l'application à partir de ce fichier, il faut :
+
+. Crée un nouveau projet AndroidStudio nommé Application_ThePantheon
+. Localiser l'application dans le dossier ( Vous pouvez crée un APK et faire " Locate " )
+. Aller dans : Application_ThePantheon > app > src > main 
+. Remplacer le fichier " res " par celui mis sur le github
+. Normalement tout est bon, si il y a des problèmes avec cette méthode le dossier est toujours trouvable sur le drive
