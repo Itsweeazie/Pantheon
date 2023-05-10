@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application_ThePantheon</string>
+    <string name="programme_musculation">Programme de musculation</string>
+    <string name="exercices_musculation">Exercices de musculation</string>
+</resources>
